@@ -10,7 +10,7 @@
   ],
   "autoload": {
     "files": [
-      "src/fpdf.php"
+      "fpdf.php"
     ]
   }
 }
