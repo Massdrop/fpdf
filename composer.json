@@ -1,0 +1,16 @@
+{
+  "name": "massdrop/fpdf",
+  "minimum-stability": "stable",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Massdrop Group Inc.",
+      "email": "somebody@massdrop.com"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "src/fpdf.php"
+    ]
+  }
+}
